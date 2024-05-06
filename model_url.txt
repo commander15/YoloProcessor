@@ -1,0 +1,2 @@
+You can download the model here:
+https://github.com/opencv/opencv_zoo/blob/main/models/object_detection_yolox/object_detection_yolox_2022nov.onnx
